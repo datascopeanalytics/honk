@@ -1,5 +1,5 @@
 For `spectrogram_intro.ipynb` to work you need a few extra dependencies:
-* `ilypond` from http://www.fluidsynth.org/
+* `lilypond` from http://www.lilypond.org/
 * `abjad` from http://abjad.mbrsi.org/
 * `fluidsynth` from http://www.fluidsynth.org/
 
